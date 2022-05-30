@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400603776245",
+    "project_id": "eye-buddy",
+    "storage_bucket": "eye-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400603776245:android:67e826eef1db2b90c131bc",
+        "android_client_info": {
+          "package_name": "com.eyebuddy.eyebuddy21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400603776245-fch1j282flv0h35o2pslf0ekktvdd6vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eyebuddy.eyebuddy21",
+            "certificate_hash": "6922110ecc5e65bddea9a6ac16799a79467d527b"
+          }
+        },
+        {
+          "client_id": "400603776245-pp0a7b94imm511vgo42lk83end8o9sk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rfscjxJ3oT4PARRkt6YLNUhzuc637s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400603776245-pp0a7b94imm511vgo42lk83end8o9sk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

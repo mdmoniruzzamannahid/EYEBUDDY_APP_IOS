@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171.387" height="104.214" viewBox="0 0 171.387 104.214">
+  <g id="Group_858" data-name="Group 858" transform="translate(-102 -174.893)">
+    <g id="noun_Eye_1466144" transform="translate(102 174.893)">
+      <g id="Group_596" data-name="Group 596" transform="translate(0 0)">
+        <path id="Path_1149" data-name="Path 1149" d="M0,52.107c41.016-69.476,130.372-69.476,171.387,0C130.372,121.583,41.016,121.583,0,52.107ZM85.8,28.46A23.752,23.752,0,1,1,61.942,52.107,23.757,23.757,0,0,1,85.8,28.46Zm0,15.9a7.848,7.848,0,0,1,0,15.695,7.848,7.848,0,1,1,0-15.695Z" fill="#fec62d" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Icon_open-arrow-bottom" data-name="Icon open-arrow-bottom" d="M4.6,0V11.509H0l5.824,6.906,5.686-6.906h-4.6V0Z" transform="translate(181.644 255.616)" fill="#181d3d"/>
+    <path id="Icon_open-arrow-bottom-2" data-name="Icon open-arrow-bottom" d="M4.6,0V11.509H0l5.824,6.906,5.686-6.906h-4.6V0Z" transform="translate(215.423 233.346) rotate(-90)" fill="#181d3d"/>
+    <path id="Icon_open-arrow-bottom-3" data-name="Icon open-arrow-bottom" d="M4.6,0V11.509H0l5.824,6.906,5.686-6.906h-4.6V0Z" transform="translate(193.153 199.566) rotate(180)" fill="#181d3d"/>
+    <path id="Icon_open-arrow-bottom-4" data-name="Icon open-arrow-bottom" d="M4.6,0V11.509H0l5.824,6.906,5.686-6.906h-4.6V0Z" transform="translate(159.373 221.836) rotate(90)" fill="#181d3d"/>
+  </g>
+</svg>

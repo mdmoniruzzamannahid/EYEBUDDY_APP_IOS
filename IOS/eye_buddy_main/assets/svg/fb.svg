@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="Group_29" data-name="Group 29" transform="translate(-80 -638)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(80 638)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <circle cx="26" cy="26" r="26" stroke="none"/>
+      <circle cx="26" cy="26" r="25.5" fill="none"/>
+    </g>
+    <path id="Vector" d="M8.992,3.653H11V.155A25.93,25.93,0,0,0,8.074,0C1.72,0,3.449,7.2,3.2,8.25H0v3.91H3.2V22H7.113V12.161h3.066l.487-3.91H7.112c.172-2.589-.7-4.6,1.88-4.6Z" transform="translate(100 653)" fill="#3b5999"/>
+  </g>
+</svg>

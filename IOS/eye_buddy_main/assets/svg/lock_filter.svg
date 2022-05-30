@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="Group_882" data-name="Group 882" transform="translate(-72 -277)">
+    <g id="Ellipse_1034" data-name="Ellipse 1034" transform="translate(72 277)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+      <circle cx="30.5" cy="30.5" r="29" fill="none"/>
+    </g>
+    <path id="Icon_awesome-lock" data-name="Icon awesome-lock" d="M21.053,11.79H19.79V8a8,8,0,0,0-16,0V11.79H2.526A2.527,2.527,0,0,0,0,14.316V24.421a2.527,2.527,0,0,0,2.526,2.526H21.053a2.527,2.527,0,0,0,2.526-2.526V14.316A2.527,2.527,0,0,0,21.053,11.79Zm-5.474,0H8V8a3.789,3.789,0,0,1,7.579,0Z" transform="translate(90.71 293.711)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.542" height="39.618" viewBox="0 0 60.542 39.618">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5558ff"/>
+      <stop offset="1" stop-color="#00c0ff"/>
+    </linearGradient>
+  </defs>
+  <g id="noun_tired_eye_2844140" data-name="noun_tired eye_2844140" transform="translate(-2.475 -18.9)">
+    <path id="Path_417" data-name="Path 417" d="M62.682,37.754C62.045,36.989,47.714,18.9,32.746,18.9c-14.9,0-29.3,18.089-29.936,18.854a1.532,1.532,0,0,0,0,1.911c.637.764,14.968,18.854,29.936,18.854,14.9,0,29.3-18.089,29.936-18.854A1.532,1.532,0,0,0,62.682,37.754ZM32.746,22.021C43,22.021,53.574,32.276,58.033,37.18H7.459C11.918,32.212,22.491,22.021,32.746,22.021Zm0,33.376c-10.255,0-20.828-10.255-25.287-15.1H24.4v.318a8.344,8.344,0,0,0,16.688,0V40.3H58.033C53.574,45.206,43,55.4,32.746,55.4ZM59.434,38.709Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

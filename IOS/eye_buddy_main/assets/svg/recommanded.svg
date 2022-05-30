@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="106" viewBox="0 0 321 106">
+  <defs>
+    <filter id="Union_5" x="0" y="0" width="321" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_857" data-name="Group 857" transform="translate(-34 -615)">
+    <g id="Group_565" data-name="Group 565" transform="translate(7 -341)">
+      <g id="Group_564" data-name="Group 564" transform="translate(-7 -2)">
+        <g transform="matrix(1, 0, 0, 1, 34, 958)" filter="url(#Union_5)">
+          <path id="Union_5-2" data-name="Union 5" d="M2411,62H2162a5,5,0,0,1-5-5V23a5,5,0,0,1,5-5h249V2l37,38-37,38Z" transform="translate(-2142 10)" fill="#fec539"/>
+        </g>
+      </g>
+      <g id="Group_563" data-name="Group 563" transform="translate(-9.082 20)">
+        <text id="Recommend_prad_to_a_buddy" data-name="Recommend prad to a buddy" transform="translate(100 989)" fill="#181d3d" font-size="16" font-family="TTCommons-Bold, TT Commons" font-weight="700"><tspan x="0" y="0">Recommend prad to a buddy</tspan></text>
+        <path id="Icon_awesome-share-alt" data-name="Icon awesome-share-alt" d="M12.05,10.955A3.272,3.272,0,0,0,10,11.67L6.495,9.477a3.305,3.305,0,0,0,0-1.427L10,5.858A3.28,3.28,0,1,0,8.842,4L5.333,6.193a3.286,3.286,0,1,0,0,5.142l3.508,2.193a3.287,3.287,0,1,0,3.209-2.573Z" transform="translate(75.082 977)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
+
